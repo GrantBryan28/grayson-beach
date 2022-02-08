@@ -1,0 +1,46 @@
+.nav1{
+	width: 70%;margin-right: 1%;background-color: red;float: left;
+}
+
+.nav2{
+	width: 29%;background-color: red;float: right;
+}
+
+header{
+	width: 38%;float: left;background-color: blue;margin-bottom:1% ;
+}
+
+.container{
+padding: 1%;background-color: black;height: 800px;font-family: sans-serif;
+}
+
+nav{
+	float: right;background-color: skyblue;width: 60%;color: white;
+}
+
+figure{
+	background-color: lightyellow;clear: both;height: 200px;margin: 0%;
+}
+
+section{
+	background-color: green;float: left;height: 200px;margin-right: 1%;width: 100px;margin-top: 1%;
+}
+.nav1 ul{
+	list-style-type: none;float: left;width: 30%;
+}
+
+a:link {
+  color: white;text-decoration: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: gold;text-decoration: none;
+}
+
+a:active {
+  color: white;text-decoration: none;
+}
