@@ -1,13 +1,13 @@
 .nav1{
-	width: 70%;margin-right: 1%;background-color: red;float: left;
+	width: 70%;margin-right: 1%;background-color: transparent;float: left;
 }
 
 .nav2{
-	width: 29%;background-color: red;float: right;
+	width: 29%;background-color: transparent;float: right;
 }
 
 header{
-	width: 38%;float: left;background-color: white;margin-bottom:1% ;
+	width: 38%;float: left;margin-bottom:1% ;
 }
 
 .container{
@@ -15,7 +15,7 @@ padding: 1%;background-color: #435132;height: 800px;font-family: sans-serif;
 }
 
 nav{
-	float: right;background-color: white;width: 60%;color: white;
+	float: right;background-color: transparent;width: 60%;color: white;
 }
 
 figure{
@@ -23,7 +23,7 @@ figure{
 }
 
 section{
-	background-color: green;float: left;height: 200px;margin-right: 1%;width: 100px;margin-top: 1%;
+	background-color: white;float: left;height: 200px;margin-right: 1%;width: 100px;margin-top: 1%;
 }
 .nav1 ul{
 	list-style-type: none;float: left;width: 30%;
