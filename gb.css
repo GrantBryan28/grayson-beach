@@ -7,19 +7,19 @@
 }
 
 header{
-	width: 38%;float: left;background-color: blue;margin-bottom:1% ;
+	width: 38%;float: left;background-color: white;margin-bottom:1% ;
 }
 
 .container{
-padding: 1%;background-color: black;height: 800px;font-family: sans-serif;
+padding: 1%;background-color: #435132;height: 800px;font-family: sans-serif;
 }
 
 nav{
-	float: right;background-color: skyblue;width: 60%;color: white;
+	float: right;background-color: white;width: 60%;color: white;
 }
 
 figure{
-	background-color: lightyellow;clear: both;height: 200px;margin: 0%;
+	background-color: white;clear: both;height: 200px;margin: 0%;
 }
 
 section{
@@ -29,8 +29,12 @@ section{
 	list-style-type: none;float: left;width: 30%;
 }
 
+.nav2 ul{
+	float: left;list-style-type: none;font-family: sans-serif;
+}
+
 a:link {
-  color: white;text-decoration: white;
+  color: white;text-decoration: white;font-family: sans-serif;
 }
 
 a:visited {
