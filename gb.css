@@ -11,7 +11,7 @@ header{
 }
 
 .container{
-padding: 1%;background-color: #435132;height: 800px;font-family: sans-serif;
+padding: 1%;background-color: #435132;height: 900px;font-family: sans-serif;
 }
 
 nav{
@@ -19,7 +19,8 @@ nav{
 }
 
 figure{
-	background-color: white;clear: both;height: 200px;margin: 0%;
+	clear: both;height: 400px;margin: 0%; background-image: linear-gradient(to bottom, rgba(163,171,178,.1), rgba(18,43,140,.73)),
+    url('BeachCrop.jpeg'); background-size: cover;padding: 5%;
 }
 
 section{
@@ -47,4 +48,12 @@ a:hover {
 
 a:active {
   color: white;text-decoration: none;
+}
+
+h1{
+	color: white;font-size: 5.2em;
+}
+
+h4{
+	color: #E3BB1C;font-size: 2em;font-weight: 100;
 }
